@@ -192,8 +192,13 @@ It’s a WP_Post object, with a few more pieces of data added to it.
 
 With Walkers, you have complete control of the appearance of the menu items, and even whether or not an item will be displayed within the menu. Try some experiments with this and see what you can come up with.
 
+<br>
+
 
 ---
-Link to original page: [DaveJesch]
+Link to original page: [DaveJesch]<br>
+Link to [Advanced Menu Settings]<br>
 
+
+[Advanced Menu Settings]:http://en.support.wordpress.com/advanced-menu-settings/
 [DaveJesch]:http://davejesch.com/presentations/menu-walker/
